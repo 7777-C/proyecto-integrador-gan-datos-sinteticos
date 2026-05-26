@@ -17,4 +17,3 @@ Este proyecto tiene como objetivo analizar y desarrollar técnicas basadas en re
 
 ## Autor
 Mark Anthony González Jaramillo
-Universidad Nacional de Loja
