@@ -4,7 +4,7 @@
 Este proyecto tiene como objetivo analizar y desarrollar técnicas basadas en redes generativas adversariales (GAN) para la creación de datos sintéticos.
 
 ## Objetivos
-- Investigar arquitecturas GAN.
+- Investigar arquitecturas GAN
 - Analizar aplicaciones en generación de datos sintéticos.
 - Comparar enfoques modernos.
 
